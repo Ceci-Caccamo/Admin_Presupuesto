@@ -11,7 +11,7 @@ Guarda la información como gasto, fecha y detalle y la presenta como lista en l
 Para correr el proyecto ejecutar en la carpeta raiz:
 ### `npm start`
 Puede necesitar primero npm install.
-git
+
 
 ## Versión web
 
