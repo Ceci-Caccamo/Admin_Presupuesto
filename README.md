@@ -23,7 +23,7 @@ Puede necesitar primero npm install.
 ![Alt text](./Asset/Inicio.png?raw=true "Inicio")
 
 ### Vista de Citas
-![Alt text](./Asset/guardarGasto.png?raw=true "GuardarGasto")gi
+![Alt text](./Asset/guardarGasto.png?raw=true "GuardarGasto")
 
 ### Vista de Citas
 ![Alt text](./Asset/PocoPresupuesto.png?raw=true "PocoPresupuesto")
