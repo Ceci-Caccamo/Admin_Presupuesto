@@ -42,7 +42,7 @@ function Pregunta({ guardarRestante, guardarPresupuesto, actualizarPregunta }) {
         />
         <input
           type="submit"
-          className="button-primary u-full-width"
+          className="button u-full-width"
           value="Definir Presupuesto"
         />
       </form>

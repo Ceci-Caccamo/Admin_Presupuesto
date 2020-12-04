@@ -35,6 +35,7 @@ const Formulario = ({ guardarGasto, guardarCrearGasto }) => {
     //resetear el formulario
     guardarNombre("");
     guardarCantidad(0);
+    guardarFecha("");
   };
 
   return (
@@ -58,7 +59,7 @@ const Formulario = ({ guardarGasto, guardarCrearGasto }) => {
         <label>Fecha</label>
         <input
           type="date"
-          className="u-full-width"
+          className="input"
           value={fecha}
           onChange={(e) => guardarFecha(e.target.value)}
         />
@@ -75,7 +76,7 @@ const Formulario = ({ guardarGasto, guardarCrearGasto }) => {
       </div>
       <input
         type="submit"
-        className="button-primary u-full-width"
+        className="background-color:#957DAD u-full-width"
         value="Agregar Gasto"
       />
     </form>
