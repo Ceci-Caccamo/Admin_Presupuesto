@@ -20,10 +20,10 @@ git
 ## Imagenes
 
 ### Vista de Inicio
-![Alt text](./asset/Inicio.png?raw=true "Inicio")
+![Alt text](./Asset/Inicio.png?raw=true "Inicio")
 
 ### Vista de Citas
-![Alt text](./asset/guardarGasto.png?raw=true "GuardarGasto")
+![Alt text](./Asset/guardarGasto.png?raw=true "GuardarGasto")gi
 
 ### Vista de Citas
-![Alt text](./asset/pocoPresupuesto.png?raw=true "PocoPresupuesto")
+![Alt text](./Asset/PocoPresupuesto.png?raw=true "PocoPresupuesto")
