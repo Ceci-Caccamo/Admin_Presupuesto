@@ -22,8 +22,8 @@ Puede necesitar primero npm install.
 ### Vista de Inicio
 ![Alt text](./Asset/Inicio.png?raw=true "Inicio")
 
-### Vista de Citas
+### Vista guardar gasto
 ![Alt text](./Asset/guardarGasto.png?raw=true "GuardarGasto")
 
-### Vista de Citas
+### Vista de poco presupuesto
 ![Alt text](./Asset/PocoPresupuesto.png?raw=true "PocoPresupuesto")
